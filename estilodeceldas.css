@@ -1,0 +1,27 @@
+
+  .slideshow-container {
+    text-align: center;
+    width: 100%;
+  }
+
+  .mySlides {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .mySlides table {
+    margin: 0 auto;
+  }
+
+  .mySlides td {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .img-responsive {
+    display: block;
+    margin: 0 auto;
+  }
+
